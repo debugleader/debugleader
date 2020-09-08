@@ -6,7 +6,7 @@ My name is abdallah, I am a web developer and I specialize in backend developmen
 ---
 - 🔭 I’m currently working on web applications.
 - 🌱 I’m currently learning new frameworks and technologies.
-- 👯 I’m looking to collaborate on anything I can help with. :ok_hand:
+- :ok_hand: I’m looking to collaborate on anything I can help with.
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: [email address](mailto:alkhassakyabdallah@gmail.com).
 - ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories. :mask:
