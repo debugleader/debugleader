@@ -11,3 +11,6 @@ My name is abdallah, I am a web developer and I specialize in backend developmen
 - 📫 How to reach me: [email address](mailto:alkhassakyabdallah@gmail.com).
 - ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories. :mask:
 ---
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://github.com/debugleader)
+[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://github.com/debugleader)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-jeffs-keyboard.svg)](https://github.com/debugleader)
